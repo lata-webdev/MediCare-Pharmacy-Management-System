@@ -141,29 +141,18 @@ After all the ups and downs…
 
 ## 📷 Screenshots (Add here)
 
-_Add your project screenshots here_
+
 
 ---
 
-## 🔗 Live Demo (Optional)
+## 📁 Project Structure
 
-_Add your live project link here_
 
----
-
-## 💻 GitHub Repository
-
-_Add your repo link here_
 
 ---
 
 # 🚀 Connect with Me
 
-- LinkedIn: _Add your link_
-- Portfolio: _Add if available_
+- LinkedIn:https://www.linkedin.com/in/lata-kumari-72b08b27b/
 
 ---
-
-#️⃣ Tags
-
-`#WebDevelopment #PHP #MySQL #FullStackDeveloper #StudentProject #MediCare #LearningJourney #WomenInTech #BuildInPublic`
