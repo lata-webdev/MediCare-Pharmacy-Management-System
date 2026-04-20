@@ -1,6 +1,6 @@
 # 🏥 MediCare – Pharmacy Management System
 
-🚀 After multiple attempts, restarts, and self-doubt… I finally built this!
+After multiple attempts, restarts, and self-doubt… I finally built this!
 
 This project was started around **December 2025** and completed after **4 months of consistent effort**.  
 It was one of the most challenging yet rewarding projects in my development journey.
@@ -194,6 +194,97 @@ After all the ups and downs…
 
 ## 📁 Project Structure
 
+```bash
+
+MEDICAL-WEBSITE/
+│
+├── final/
+│   │
+│   ├── index.php
+│   ├── db.php
+│   ├── config.php
+│
+│   ├── authentication/
+│   │   ├── signin.html
+│   │   ├── signin.php
+│   │   ├── signup.html
+│   │   ├── signup.php
+│   │   ├── logout.php
+│
+│   ├── dashboard/              # Admin Panel
+│   │   ├── dashboard.php
+│   │   ├── db.php
+│   │   ├── logout.php
+│   │
+│   │   ├── doctors/
+│   │   │   ├── add-doctors.php
+│   │   │   ├── uploads/
+│   │   │
+│   │   ├── medicines/
+│   │   │   ├── add-medicine.html
+│   │   │   ├── add-medicine.php
+│   │   │   ├── edit-medicine.php
+│   │   │   ├── delete-medicine.php
+│   │   │   ├── stock-management.php
+│   │   │   ├── export-stock.php
+│   │   │
+│   │   ├── appointments/
+│   │   │   ├── appointments.php
+│   │   │
+│   │   ├── users/
+│   │   │   ├── patients.php
+│   │   │
+│   │   ├── orders/
+│   │   │   ├── orders.php
+│   │   │
+│   │   ├── reports/
+│   │       ├── sales-report.php
+│
+│   ├── pages/
+│   │   ├── about.html
+│   │   ├── faq.html
+│   │   ├── contact.php
+│   │   ├── how-to-order.html
+│   │   ├── order-status.html
+│   │   ├── return-policy.html
+│   │   ├── terms.html
+│
+│   ├── products/
+│   │   ├── tablets.html
+│   │   ├── syrups.html
+│   │   ├── injections.html
+│   │   ├── personalcare.html
+│   │   ├── babycare.html
+│
+│   ├── booking/
+│   │   ├── book-appointment.php
+│   │   ├── doctors.php
+│
+│   ├── uploads/
+│   │   └── doctors/
+│
+│   ├── assets/
+│   │   └── images/
+│   │       ├── medicines/
+│   │       ├── injections/
+│   │       ├── personal_care/
+│   │       ├── baby_care/
+│   │       ├── backgrounds/
+│   │       ├── gallery/
+│   │       ├── about/
+│   │       └── misc/
+│
+│   ├── mailer/
+│   │   └── src/
+│   │       ├── PHPMailer.php
+│   │       ├── SMTP.php
+│   │       ├── Exception.php
+│   │       ├── POP3.php
+│   │       ├── OAuth.php
+│   │       ├── OAuthTokenProvider.php
+│   │       ├── DSNConfigurator.php
+│
+└── README.md
 
 
 ---
